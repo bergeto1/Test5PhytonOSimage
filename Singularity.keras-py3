@@ -27,3 +27,5 @@ pip3 install \
      Image \
      scikit-learn \
 	shutil
+
+
