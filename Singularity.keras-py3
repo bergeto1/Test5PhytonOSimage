@@ -26,4 +26,4 @@ pip3 install \
      seaborn	\
      Image \
      scikit-learn \
-os
+	shutil
