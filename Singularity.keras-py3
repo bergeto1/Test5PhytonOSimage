@@ -25,7 +25,8 @@ pip3 install \
      matplotlib \
      seaborn	\
      Image \
-     scikit-learn \
-	shutil
+     shutil \
+     scikit-learn
+	
 
 
